@@ -1,0 +1,18 @@
+Package: projUnboxingYouTube
+Type: Package
+Title: Project Unboxing Study - YouTube
+Version: 0.1.0
+Author: Taekyung Kim
+Maintainer: Taekyung Kim <kimtk@kw.ac.kr>
+Description: Project Unboxing Study - YouTube
+License: Private
+Encoding: UTF-8
+LazyData: true
+Imports:
+  dplyr,
+  youtubecaption,
+  tuber
+Suggests:
+  dplyr,
+  youtubecaption,
+  tuber
